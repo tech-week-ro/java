@@ -2,7 +2,7 @@
 
 Thread Safety with Phaser, StampedLock and VarHandle
 
-[Dr Heinz Kabutz](Dr-Heinz-Kabutz)
+[Dr Heinz Kabutz](/dr-heinz-kabutz)
 
 Lightweight Enterprise Java with MicroProfile
 
